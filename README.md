@@ -2,8 +2,6 @@ Create a professional, technically strong project description for my resume and 
 
 My main project is the **design and implementation of a 5.8-GHz LC VCO in 180-nm CMOS technology using Cadence Virtuoso**. Present it as a complete transistor-level RFIC design flow, not merely as a simulation project.
 
-The project flow and technical work are:
-
 1. LC VCO Architecture and Frequency Tuning**
 
    * Designed a differential cross-coupled LC VCO in 180-nm CMOS.
